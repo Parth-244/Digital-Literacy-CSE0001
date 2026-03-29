@@ -34,6 +34,7 @@ I created an account on HackerRank and solved beginner-level coding challenges t
 
 **Part B:**
 I made a Google Form on digital literacy awareness which included questions related to online safety and basic digital knowledge.
+Here is the link: https://docs.google.com/forms/d/e/1FAIpQLScQ8OAKaWsqSC2L6NiBMxwWBBROopdi-vTtwcJcB0hM_3KbWQ/viewform?usp=dialog
 
 ---
 
